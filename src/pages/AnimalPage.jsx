@@ -10,7 +10,7 @@ const AnimalPage = ({ onBack }) => {
           <ArrowLeft size={24} />
         </button>
         <div>
-          <h1 className="text-2xl font-bold text-white tracking-tight">Animal Health Interface</h1>
+          <h1 className="text-2xl font-bold text-white tracking-tight">Animal Health </h1>
           <p className="text-slate-400 text-sm">Zoonotic surveillance and biosafety protocols.</p>
         </div>
       </header>
