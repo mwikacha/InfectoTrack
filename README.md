@@ -155,9 +155,10 @@ While **OneHealth Hub** currently serves as a strong MVP for the KitaHack compet
 
 * **📡 Full Live API Integration:** Transition our *Live Environmental Risk Indicators* from a UI concept to fully functional, real-time data feeds by integrating third-party APIs for local Weather, AQI, and Water Turbidity.
 * **🔮 Predictive Outbreak Modeling:** Enhance the "One Health Sentinel" AI to actively monitor intersecting data (e.g., heavy rainfall + high water turbidity) and send automated early-warning alerts for potential zoonotic outbreaks like Dengue or Leptospirosis.
-* **🌍 Global Zoonotic Database:** Expand our tracking database beyond the current "Top 5 Zoonotic Diseases in Malaysia" to include localized, region-specific threats for users globally.
+* **📍 Vaccination & Care Locator:** Integrate location-based services (such as the Google Maps API) to help users instantly locate nearby vaccination centers, veterinary clinics, and hospitals to encourage proactive preventative care for both humans and pets.
 * **🤝 Community Crowdsourcing:** Develop a reporting module that allows local farmers, hikers, and citizens to report unusual animal deaths or environmental hazards (like illegal dumping), feeding grassroots data directly into the Intelligence Core.
-* **🗣️ Multi-Language Accessibility:** Integrate translation APIs to ensure critical public health, agricultural, and environmental information is fully accessible to rural communities in their native languages.
+
+
 
 
 
