@@ -1,4 +1,4 @@
-# 🦠 InfectoTrack 
+# 🦠 OneHealth Hub 
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-infectotrack.web.app-brightgreen?style=for-the-badge)](https://infectotrack.web.app)
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-blue?style=for-the-badge&logo=github)](https://github.com/mwikacha/InfectoTrack.git)
@@ -158,6 +158,7 @@ While **OneHealth Hub** currently serves as a strong MVP for the KitaHack compet
 * **🌍 Global Zoonotic Database:** Expand our tracking database beyond the current "Top 5 Zoonotic Diseases in Malaysia" to include localized, region-specific threats for users globally.
 * **🤝 Community Crowdsourcing:** Develop a reporting module that allows local farmers, hikers, and citizens to report unusual animal deaths or environmental hazards (like illegal dumping), feeding grassroots data directly into the Intelligence Core.
 * **🗣️ Multi-Language Accessibility:** Integrate translation APIs to ensure critical public health, agricultural, and environmental information is fully accessible to rural communities in their native languages.
+
 
 
 
