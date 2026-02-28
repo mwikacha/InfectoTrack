@@ -8,11 +8,10 @@
 Welcome to the official repository for **OneHealth Hub**, developed for the KitaHack competition. This repository contains the frontend and backend codebase for our public health awareness and assistance web application.
 
 ### 👥 Meet the Team
-* **[Dhanya Gotami K.D]** - [Role, e.g., Backend Developer]
-* **[Arisha Binti Mohamad / mwikacha]** - [Role, e.g., Frontend Developer]
-* **[Aliyah Tan Binti Faisal / ]** - [Role, e.g., Frontend Developer / Data Researcher]
-* **[Jayden Wan Kar Ming]** - [Role, e.g., Backend Developer / Data Researcher]
-*(Add or remove members as needed)*
+* **[Dhanya Gotami K.D]** - [Backend Developer]
+* **[Arisha Binti Mohamad / mwikacha]** - [Frontend Developer]
+* **[Aliyah Tan Binti Faisal / ]** - [Frontend Developer / Data Researcher]
+* **[Jayden Wan Kar Ming]** - [Backend Developer / Data Researcher]
 
 ---
 
@@ -150,3 +149,15 @@ npm run dev
 ```
 
 The app will be available at: **http://localhost:5174/** (or the next available port)
+
+## 8) 🗺️ Future Roadmap
+
+While **OneHealth Hub** currently serves as a strong MVP for the KitaHack competition, our vision for a holistic health platform extends much further. Here is what we plan to build next:
+
+* **📡 Full Live API Integration:** Transition our *Live Environmental Risk Indicators* from a UI concept to fully functional, real-time data feeds by integrating third-party APIs for local Weather, AQI, and Water Turbidity.
+* **🔮 Predictive Outbreak Modeling:** Enhance the "One Health Sentinel" AI to actively monitor intersecting data (e.g., heavy rainfall + high water turbidity) and send automated early-warning alerts for potential zoonotic outbreaks like Dengue or Leptospirosis.
+* **🌍 Global Zoonotic Database:** Expand our tracking database beyond the current "Top 5 Zoonotic Diseases in Malaysia" to include localized, region-specific threats for users globally.
+* **🤝 Community Crowdsourcing:** Develop a reporting module that allows local farmers, hikers, and citizens to report unusual animal deaths or environmental hazards (like illegal dumping), feeding grassroots data directly into the Intelligence Core.
+* **🗣️ Multi-Language Accessibility:** Integrate translation APIs to ensure critical public health, agricultural, and environmental information is fully accessible to rural communities in their native languages.
+
+
