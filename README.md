@@ -8,7 +8,7 @@
 Welcome to the official repository for **OneHealth Hub**, developed for the KitaHack competition. This repository contains the frontend and backend codebase for our public health awareness and assistance web application.
 
 ### 👥 Meet the Team
-* **Dhanya Gotami K.D / hanyadon19** - Backend Developer
+* **Dhanya Gotami K.D / dhanyadon19** - Backend Developer
 * **Arisha Binti Mohamad / mwikacha** - Frontend Developer
 * **Aliyah Tan Binti Faisal / 25006833-2025** - Frontend Developer / Data Researcher
 * **Jayden Wan Kar Ming / Starchaser418171514** - Backend Developer / Data Researcher
@@ -158,6 +158,7 @@ While **OneHealth Hub** currently serves as a strong MVP for the KitaHack compet
 * **🌍 Global Zoonotic Database:** Expand our tracking database beyond the current "Top 5 Zoonotic Diseases in Malaysia" to include localized, region-specific threats for users globally.
 * **🤝 Community Crowdsourcing:** Develop a reporting module that allows local farmers, hikers, and citizens to report unusual animal deaths or environmental hazards (like illegal dumping), feeding grassroots data directly into the Intelligence Core.
 * **🗣️ Multi-Language Accessibility:** Integrate translation APIs to ensure critical public health, agricultural, and environmental information is fully accessible to rural communities in their native languages.
+
 
 
 
