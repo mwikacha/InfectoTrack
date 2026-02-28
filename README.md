@@ -22,6 +22,7 @@ Public health is often approached in isolation, treating human illness without a
 
 ### 🌍 SDG Alignment
 **SDG 3: Good Health and Well-being.** OneHealth Hub directly supports this goal by shifting the focus from reactive treatment to proactive disease mitigation. By tracking animal health and environmental indicators, we aim to establish early warning systems for global public health safety.
+* **SDG 15: Life on Land:** Our platform highlights that human health is deeply interconnected with animal health and our shared environment. By educating users on how intact landscapes act as natural barriers and monitoring wildlife and livestock surveillance, we advocate for the protection of terrestrial ecosystems and biodiversity to prevent zoonotic disease spillover.
 
 ### 💡 Short Description of the Solution
 OneHealth Hub is a comprehensive web dashboard built on the "One Health" collaborative approach. The platform monitors three core sectors: Animal, Environment, and Human health. It empowers users by providing localized data on zoonotic diseases (illnesses that spread between animals and humans), tracking live environmental risk indicators, and utilizing an AI-powered "Intelligence Core" to identify potential risks before outbreaks occur.
@@ -71,7 +72,6 @@ The application follows a modern decoupled architecture:
 
 * **Pivoting from Reactive to Proactive:** Halfway through development, we realized that simply relying on an AI chatbot wasn't enough. We wanted to provide a truly preventative tool, which led us to design the Live Environmental Risk Indicators. By implementing this, users can monitor real-time environmental data—like weather forecasts, Air Quality Index (AQI), and water turbidity, allowing them to proactively see how environmental shifts, such as heavy rainfall, directly accelerate vector transmission rates for diseases like Dengue.
 * **Time Constraints:** Building a seamless UI while concurrently integrating multiple external APIs within the time limit required strict task delegation.
-*(Feel free to add any specific bugs or hurdles your team encountered here!)*
 
 ---
 
@@ -157,6 +157,7 @@ While **OneHealth Hub** currently serves as a strong MVP for the KitaHack compet
 * **🔮 Predictive Outbreak Modeling:** Enhance the "One Health Sentinel" AI to actively monitor intersecting data (e.g., heavy rainfall + high water turbidity) and send automated early-warning alerts for potential zoonotic outbreaks like Dengue or Leptospirosis.
 * **📍 Vaccination & Care Locator:** Integrate location-based services (such as the Google Maps API) to help users instantly locate nearby vaccination centers, veterinary clinics, and hospitals to encourage proactive preventative care for both humans and pets.
 * **🤝 Community Crowdsourcing:** Develop a reporting module that allows local farmers, hikers, and citizens to report unusual animal deaths or environmental hazards (like illegal dumping), feeding grassroots data directly into the Intelligence Core.
+
 
 
 
