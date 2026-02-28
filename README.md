@@ -8,10 +8,10 @@
 Welcome to the official repository for **OneHealth Hub**, developed for the KitaHack competition. This repository contains the frontend and backend codebase for our public health awareness and assistance web application.
 
 ### 👥 Meet the Team
-* **[Dhanya Gotami K.D]** - [Backend Developer]
-* **[Arisha Binti Mohamad / mwikacha]** - [Frontend Developer]
-* **[Aliyah Tan Binti Faisal / ]** - [Frontend Developer / Data Researcher]
-* **[Jayden Wan Kar Ming]** - [Backend Developer / Data Researcher]
+* **Dhanya Gotami K.D / hanyadon19** - Backend Developer
+* **Arisha Binti Mohamad / mwikacha** - Frontend Developer
+* **Aliyah Tan Binti Faisal / 25006833-2025** - Frontend Developer / Data Researcher
+* **Jayden Wan Kar Ming / Starchaser418171514** - Backend Developer / Data Researcher
 
 ---
 
@@ -30,9 +30,9 @@ OneHealth Hub is a comprehensive web dashboard built on the "One Health" collabo
 
 ## 3) Key Features
 
-* **Three-Pillar Core Sectors:** Dedicated, easily navigable dashboards for Animal Health (wildlife & livestock surveillance), Environmental Health (climate & water monitoring), and Human Health (disease trends and public safety).
 * **Intelligence Core (AI Sentinel):** An integrated, Gemini-powered chat assistant—the "One Health Sentinel"—designed to help users query the database and identify interconnected health risks. *(Includes educational disclaimer)*.
 * **Live Environmental Risk Indicators (Under Development):** A planned feature for real-time environmental surveillance that will track local Weather Forecasts, Air Quality Index (AQI), and Water Turbidity. Once fully implemented, the platform will analyze this data to show public health impacts, such as how heavy rainfall accelerates vector transmission rates for diseases like Dengue.
+* **Three-Pillar Core Sectors:** Dedicated, easily navigable dashboards for Animal Health (wildlife & livestock surveillance), Environmental Health (climate & water monitoring), and Human Health (disease trends and public safety).
 * **Localized Zoonotic Disease Tracking:** Comprehensive information on significant public health threats, specifically tailored to regional risks like the Top 5 Zoonotic Diseases in Malaysia (e.g., Leptospirosis and Monkey Malaria). This includes data on vectors, transmission methods, symptoms, and preventative measures..
 * **Animal Health Impact Analysis:** Educational modules explaining the biological buffer animals provide, highlighting how healthy livestock ensures food security, prevents the spread of diseases, and provides vital nutrition.
 
@@ -45,10 +45,10 @@ OneHealth Hub is a comprehensive web dashboard built on the "One Health" collabo
 * **Firebase Hosting:** Used for fast, secure, and reliable deployment of our web application (`infectotrack.web.app`).
 
 ### 🛠️ Other Supporting Tools / Libraries
-* **Frontend Framework:** [React.js / HTML & JS / Vite]
-* **Styling:** [Tailwind CSS]
+* **Frontend Framework:** React.js / HTML & JS / Vite
+* **Styling:** Tailwind CSS
 * **Version Control:** Git & GitHub
-* **Package Manager:** [npm]
+* **Package Manager:** npm
 
 ---
 
@@ -70,7 +70,6 @@ The application follows a modern decoupled architecture:
 ## 6) Challenges Faced
 
 * **Pivoting from Reactive to Proactive:** Halfway through development, we realized that simply relying on an AI chatbot wasn't enough. We wanted to provide a truly preventative tool, which led us to design the Live Environmental Risk Indicators. By implementing this, users can monitor real-time environmental data—like weather forecasts, Air Quality Index (AQI), and water turbidity, allowing them to proactively see how environmental shifts, such as heavy rainfall, directly accelerate vector transmission rates for diseases like Dengue.
-* **Location Accuracy:** Integrating the Maps API to accurately filter only relevant health facilities rather than generic businesses required refining our search parameters.
 * **Time Constraints:** Building a seamless UI while concurrently integrating multiple external APIs within the time limit required strict task delegation.
 *(Feel free to add any specific bugs or hurdles your team encountered here!)*
 
@@ -159,5 +158,6 @@ While **OneHealth Hub** currently serves as a strong MVP for the KitaHack compet
 * **🌍 Global Zoonotic Database:** Expand our tracking database beyond the current "Top 5 Zoonotic Diseases in Malaysia" to include localized, region-specific threats for users globally.
 * **🤝 Community Crowdsourcing:** Develop a reporting module that allows local farmers, hikers, and citizens to report unusual animal deaths or environmental hazards (like illegal dumping), feeding grassroots data directly into the Intelligence Core.
 * **🗣️ Multi-Language Accessibility:** Integrate translation APIs to ensure critical public health, agricultural, and environmental information is fully accessible to rural communities in their native languages.
+
 
 
